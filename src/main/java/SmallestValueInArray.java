@@ -1,9 +1,10 @@
 import java.util.Arrays;
 
 public class SmallestValueInArray {
+    // Write a method that finds and  returns the smallest integer value in an integer array
     public static int findSmallest(final int[] numbers) {
-        Arrays.sort(numbers);
-        return numbers[0];
+        // Your code here...
+        return -1;
     }
 }
 
